@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "長福寺/寿老神",
+        "description": "健康・長寿の神である寿老神を祀る",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.383065,
+          36.720749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "龍泰院",
+        "description": "布袋尊、福徳・円満の神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.391948,
+          36.751023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "実相院",
+        "description": "福禄寿/長寿・立身出世の神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.424607,
+          36.792876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "慈雲寺",
+        "description": "大黒天/五穀豊穣の神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.360062,
+          36.842434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "高徳寺",
+        "description": "恵比寿/漁業・商売繁盛の神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.332961,
+          36.843242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "性徳寺",
+        "description": "毘沙門天/勇気・商売繁盛の神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.292578,
+          36.770827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "永源寺",
+        "description": "弁財天/芸能の神",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.349827,
+          36.765825
+        ]
+      }
+    }
+  ]
+}
